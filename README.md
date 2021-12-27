@@ -1,1 +1,1 @@
-# A Log4j vulnerability scanner
+# Some realization of Windows API with C++
